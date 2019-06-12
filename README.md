@@ -1,7 +1,5 @@
 ## eQTL-mapping with Quantile Regression
 
-## FastQTL
-
 This repository contains a runnable python script which performs eQTL mapping with OLS/Quantile Regression, with an optional inverse-normal-transformation (INT).
 
 1. Input the expression matrix, covariates, variants genotype.
