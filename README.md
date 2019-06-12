@@ -11,6 +11,8 @@ This repository contains a runnable python script which performs eQTL mapping wi
 
 This repository serves as a supplementary for the manuscripts submitted to Briefs in Bioinformatics. see: http://@OUR-PUBLICATION-URL
 
+you can install the packages required by `pip install -r requrirements.txt`
+
 #### Usage
 
 Quantile Regression without inverse-normal-transformation.  
